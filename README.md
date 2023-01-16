@@ -1,6 +1,6 @@
 # Горинова Анастасия Павловна
 
-[photo](<img src="https://i.ibb.co/FhVRpry/DSC-4217.jpg" alt="DSC-4217" border="0">)
+[photo](https://i.ibb.co/FhVRpry/DSC-4217.jpg)
 
 Я давно хотела выучиться на программиста. Наконец я решилась и начала учиться в **Нетологии**.
 
